@@ -1,0 +1,43 @@
+ -------------- 70 ------------------ 
+2 - way trial X 1
+numbers of integers: 70
+totalmax of 1 trials: 35353642
+average - CPU - time: 2.13111
+the real time is below: 0.377877
+
+ -------------- 70 ------------------ 
+TRIAL : 1 --- 35353642
+ -------------- 70 ------------------ 
+2 - way trial X 1
+numbers of integers: 70
+totalmax of 1 trials: 35353642
+average - CPU - time: 2.37298
+the real time is below: 0.425558
+
+ -------------- 70 ------------------ 
+TRIAL : 1 --- 68659118
+ -------------- 70 ------------------ 
+2 - way trial X 1
+numbers of integers: 70
+totalmax of 1 trials: 68659118
+average - CPU - time: 1.95596
+the real time is below: 0.326171
+
+ -------------- 70 ------------------ 
+TRIAL : 1 --- 35353642
+ -------------- 70 ------------------ 
+2 - way trial X 1
+numbers of integers: 70
+totalmax of 1 trials: 35353642
+average - CPU - time: 2.54958
+the real time is below: 0.442533
+
+ -------------- 70 ------------------ 
+TRIAL : 1 --- 68659118
+ -------------- 70 ------------------ 
+2 - way trial X 1
+numbers of integers: 70
+totalmax of 1 trials: 68659118
+average - CPU - time: 2.05179
+the real time is below: 0.349302
+

@@ -1,0 +1,17 @@
+TRIAL : 1 --- 0
+TRIAL : 2 --- 0
+TRIAL : 3 --- 0
+TRIAL : 4 --- 0
+TRIAL : 5 --- 0
+TRIAL : 6 --- 0
+TRIAL : 7 --- 0
+TRIAL : 8 --- 0
+TRIAL : 9 --- 0
+TRIAL : 10 --- 0
+ -------------- 0 ------------------ 
+2 - way trial X 10
+numbers of integers: 0
+totalmax of 10 trials: 0
+average - CPU - time: 0.0006591
+the real time is below: 0.004009
+

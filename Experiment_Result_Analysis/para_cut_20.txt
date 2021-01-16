@@ -1,0 +1,163 @@
+ -------------- 70 ------------------ 
+TRIAL : 1 --- 35353642
+TRIAL : 2 --- 51964126
+TRIAL : 3 --- 10856430
+TRIAL : 4 --- 35066385
+TRIAL : 5 --- 24969788
+TRIAL : 6 --- 138746290
+TRIAL : 7 --- 139743455
+TRIAL : 8 --- 51817312
+TRIAL : 9 --- 80850349
+TRIAL : 10 --- 4270096
+ -------------- 70 ------------------ 
+2 - way trial X 10
+numbers of integers: 70
+totalmax of 10 trials: 573637873
+average - CPU - time: 2.90423
+the real time is below: 1.94523
+
+ -------------- 75 ------------------ 
+TRIAL : 1 --- 7974325
+TRIAL : 2 --- 39834718
+TRIAL : 3 --- 8146038
+TRIAL : 4 --- 5617453
+TRIAL : 5 --- 46797553
+TRIAL : 6 --- 20471235
+TRIAL : 7 --- 13479960
+TRIAL : 8 --- 26565538
+TRIAL : 9 --- 3941919
+TRIAL : 10 --- 6628270
+ -------------- 75 ------------------ 
+2 - way trial X 10
+numbers of integers: 75
+totalmax of 10 trials: 179457009
+average - CPU - time: 8.74653
+the real time is below: 7.27631
+
+ -------------- 80 ------------------ 
+TRIAL : 1 --- 173651
+TRIAL : 2 --- 817261
+TRIAL : 3 --- 3571883
+TRIAL : 4 --- 370094
+TRIAL : 5 --- 6538845
+TRIAL : 6 --- 22666099
+TRIAL : 7 --- 7451153
+TRIAL : 8 --- 591472
+TRIAL : 9 --- 833516
+TRIAL : 10 --- 23961977
+ -------------- 80 ------------------ 
+2 - way trial X 10
+numbers of integers: 80
+totalmax of 10 trials: 66975951
+average - CPU - time: 34.0448
+the real time is below: 24.886
+
+ -------------- 85 ------------------ 
+TRIAL : 1 --- 135593
+TRIAL : 2 --- 784553
+TRIAL : 3 --- 88829
+TRIAL : 4 --- 2087303
+TRIAL : 5 --- 17347515
+TRIAL : 6 --- 4077319
+TRIAL : 7 --- 1407140
+TRIAL : 8 --- 362729
+TRIAL : 9 --- 3172672
+TRIAL : 10 --- 7905105
+ -------------- 85 ------------------ 
+2 - way trial X 10
+numbers of integers: 85
+totalmax of 10 trials: 37368758
+average - CPU - time: 98.145
+the real time is below: 79.71
+
+ -------------- 90 ------------------ 
+TRIAL : 1 --- 537548
+TRIAL : 2 --- 422889
+TRIAL : 3 --- 258447
+TRIAL : 4 --- 590866
+TRIAL : 5 --- 3853840
+TRIAL : 6 --- 1276225
+TRIAL : 7 --- 579530
+TRIAL : 8 --- 207666
+TRIAL : 9 --- 1347261
+TRIAL : 10 --- 715452
+ -------------- 90 ------------------ 
+2 - way trial X 10
+numbers of integers: 90
+totalmax of 10 trials: 9789724
+average - CPU - time: 314.96
+the real time is below: 231.374
+
+ -------------- 95 ------------------ 
+TRIAL : 1 --- 32088
+TRIAL : 2 --- 142561
+TRIAL : 3 --- 56376
+TRIAL : 4 --- 61564
+TRIAL : 5 --- 2116853
+TRIAL : 6 --- 380289
+TRIAL : 7 --- 62414
+TRIAL : 8 --- 165726
+TRIAL : 9 --- 94372
+TRIAL : 10 --- 87248
+ -------------- 95 ------------------ 
+2 - way trial X 10
+numbers of integers: 95
+totalmax of 10 trials: 3199491
+average - CPU - time: 903.864
+the real time is below: 695.413
+
+ -------------- 100 ------------------ 
+TRIAL : 1 --- 5412
+TRIAL : 2 --- 25556
+TRIAL : 3 --- 230
+TRIAL : 4 --- 1486
+TRIAL : 5 --- 617951
+TRIAL : 6 --- 81323
+TRIAL : 7 --- 52506
+TRIAL : 8 --- 76976
+TRIAL : 9 --- 26329
+TRIAL : 10 --- 8199
+ -------------- 100 ------------------ 
+2 - way trial X 10
+numbers of integers: 100
+totalmax of 10 trials: 895968
+average - CPU - time: 3496.52
+the real time is below: 2581.37
+
+-------------- 105 ------------------ 
+TRIAL : 1 --- 10151
+TRIAL : 2 --- 2753
+TRIAL : 3 --- 12318
+TRIAL : 4 --- 274903
+TRIAL : 5 --- 30841
+TRIAL : 6 --- 3315
+TRIAL : 7 --- 3740
+TRIAL : 8 --- 35365
+TRIAL : 9 --- 40784
+TRIAL : 10 --- 295298
+ -------------- 105 ------------------ 
+2 - way trial X 10
+numbers of integers: 105
+totalmax of 10 trials: 709468
+average - CPU - time: 10944.4
+the real time is below: 8489.38
+
+ -------------- 110 ------------------ 
+TRIAL : 1 --- 2475
+TRIAL : 2 --- 11658
+TRIAL : 3 --- 94
+TRIAL : 4 --- 10676
+TRIAL : 5 --- 9751
+TRIAL : 6 --- 727
+TRIAL : 7 --- 2191
+TRIAL : 8 --- 56573
+TRIAL : 9 --- 2255
+TRIAL : 10 --- 35972
+ -------------- 110 ------------------ 
+2 - way trial X 10
+numbers of integers: 110
+totalmax of 10 trials: 132372
+average - CPU - time: 40582.4
+the real time is below: 29964
+
+ -------------- 120 ------------------ 

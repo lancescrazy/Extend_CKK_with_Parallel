@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610678071 source:/home/lance/Repositories/parallel_big/parallel_ckk_v2/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+
